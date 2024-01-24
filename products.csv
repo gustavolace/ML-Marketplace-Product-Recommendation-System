@@ -1,0 +1,50 @@
+produto,categoria,preco
+Pão,Padaria,2.50
+Manteiga,Laticínios,5.00
+Café,Bebidas,8.00
+Leite,Laticínios,3.00
+Arroz,Grãos,4.00
+Feijão,Grãos,3.50
+Óleo de Soja,Óleos,5.50
+Carne,Carnes,12.00
+Pasta de Dentes,Higiene Pessoal,3.50
+Escova de Dentes,Higiene Pessoal,2.00
+Desinfetante,Limpeza,6.00
+Detergente,Limpeza,4.50
+Queijo,Laticínios,6.00
+Presunto,Embutidos,7.00
+Açúcar,Adoçantes,2.00
+Fraldas,Higiene Pessoal,15.00
+Lenços Umedecidos,Higiene Pessoal,8.00
+Tomate,Hortifruti,2.00
+Cebola,Hortifruti,1.50
+Alho,Hortifruti,2.50
+Soda,Bebidas,3.00
+Salgadinho,Snacks,4.00
+Shampoo,Higiene Pessoal,10.00
+Condicionador,Higiene Pessoal,8.00
+Sabonete,Higiene Pessoal,3.00
+Mostarda,Condimentos,2.50
+Maçã,Hortifruti,2.50
+Banana,Hortifruti,1.50
+Laranja,Hortifruti,2.00
+Chá,Bebidas,4.00
+Frango,Carnes,9.00
+Milho,Grãos,3.00
+Geleia,Doces,5.00
+Peixe,Carnes,11.00
+Limão,Hortifruti,2.00
+Coentro,Hortifruti,1.00
+Pano de Limpeza,Limpeza,4.00
+Biscoitos,Snacks,3.50
+Ovos,Laticínios,5.00
+Bacon,Embutidos,6.00
+Torradas,Padaria,3.00
+Legumes,Hortifruti,4.50
+Toalha de Banho,Cama e Banho,12.00
+Macarrão,Massas,2.50
+Molho de Tomate,Condimentos,3.50
+Creme Dental,Higiene Pessoal,4.00
+Fio Dental,Higiene Pessoal,2.00
+Pizza,Pratos Prontos,8.00
+Refrigerante,Bebidas,5.00
